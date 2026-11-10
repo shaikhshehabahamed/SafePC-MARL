@@ -1,0 +1,5 @@
+Method,Hypervolume,Cell0_Mean_Cost,Cell1_Mean_Cost,Cell2_Mean_Cost,Cell0_Feas_Rate,Cell1_Feas_Rate,Cell2_Feas_Rate,Joint_Feas_Rate,Max_Switch_Deg_pct,Mean_Switch_Deg_pct
+SafePC-MARL (ours),0.722911,0.1784,0.1597,0.1576,0.0,0.0,0.0,0.0,200.0,27.7
+MACPO,0.001781,0.1303,0.1158,0.1135,0.0222,0.0,0.0222,0.0,N/A,N/A
+CAPQL,0.001,0.1294,0.1149,0.1139,0.0222,0.0,0.0222,0.0,N/A,N/A
+PPO-Scalar,0.001781,0.1303,0.1158,0.1135,0.0222,0.0,0.0222,0.0,N/A,N/A
